@@ -60,7 +60,7 @@ body {
 }
 
 .address {
-  max-width: 240px;
+  width: 265px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -94,6 +94,7 @@ p {
 }
 
 .header__address {
+  max-width: 240px;
   justify-self: end;
 }
 
@@ -213,7 +214,7 @@ p {
   font-size: 40px;
   font-weight: 700;
   margin-left: 40px;
-  margin-bottom: 27px;
+  margin-bottom: 28px;
   text-transform: uppercase;
 
 }
@@ -311,7 +312,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 35px auto 0px auto;
+  margin: 36px auto 0px auto;
 }
 
 .about__logo-image {
@@ -326,6 +327,7 @@ p {
   font-style: Regular;
   line-height: 24px;
   font-weight: 400;
+  margin-bottom: 12;
 }
 
 .about__title {
@@ -335,7 +337,7 @@ p {
   font-style: Bold;
   line-height: 100%;
   text-transform: uppercase;
-  margin-top: 139px;
+  margin-top: 140px;
   margin-left: 23px;
 }
 
@@ -350,7 +352,7 @@ p {
 
 .footer {
   padding: 0px 50px;
-  margin-top: 180px;
+  margin-top: 181px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
