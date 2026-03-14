@@ -206,7 +206,6 @@ p {
   gap: 25px;
   list-style: none;
   justify-content: center;
-  margin-bottom: 30px;
 }
 
 .card {
@@ -258,6 +257,7 @@ p {
   align-self: flex-start;
   display: inline;
   margin-left: 40px;
+  margin-top: 28px;
   font-size: 20px;
   font-family: Raleway, Arial, sans-serif;
   font-weight: normal;
@@ -267,7 +267,7 @@ p {
 }
 
 .about {
-  margin: 120px 24px 0px 24px;
+  margin: 118px 24px 0px 24px;
   display: grid;
   grid-template-columns: 335px auto;
 }
