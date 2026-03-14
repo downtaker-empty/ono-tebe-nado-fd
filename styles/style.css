@@ -294,7 +294,7 @@ p {
   height: 114px;
 }
 
-.about__text-paragraphs{
+.about__text-paragraphs {
   display: flex;
   flex-direction: column;
   gap: 25px;
