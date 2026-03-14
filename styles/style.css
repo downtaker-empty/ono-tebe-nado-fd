@@ -257,7 +257,7 @@ p {
   align-self: flex-start;
   display: inline;
   margin-left: 40px;
-  margin-top: 25px;
+  margin-top: 28px;
   font-size: 20px;
   font-family: Raleway, Arial, sans-serif;
   font-weight: normal;
@@ -286,7 +286,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 30px auto 0px auto;
+  margin: 35px auto 0px auto;
 }
 
 .about__logo-image {
@@ -317,7 +317,7 @@ p {
   font-style: Bold;
   line-height: 100%;
   text-transform: uppercase;
-  margin-top: 133px;
+  margin-top: 136px;
   margin-left: 23px;
 }
 
