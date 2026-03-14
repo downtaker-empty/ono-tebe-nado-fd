@@ -294,14 +294,20 @@ p {
   height: 114px;
 }
 
+.about__text-paragraphs{
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 100px;
+  margin-left: 23px;
+}
+
 .about__text {
-  width: 693px;
-  font-size: 20px;
   font-family: Raleway, Arial, sans-serif;
-  font-style: normal;
+  font-size: 20px;
   line-height: 24px;
-  font-weight: 400;
-  margin-bottom: 12px;
+  font-weight: normal;
+
 }
 
 .about__title {
@@ -315,18 +321,9 @@ p {
   margin-left: 23px;
 }
 
-.about__article-list {
-  margin-top: 100px;
-  margin-left: 23px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  list-style: none;
-}
-
 .footer {
   padding: 0px 50px 82px;
-  margin-top: 181px;
+  margin-top: 185px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
