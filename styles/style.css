@@ -257,7 +257,7 @@ p {
   align-self: flex-start;
   display: inline;
   margin-left: 40px;
-  margin-top: 28px;
+  margin-top: 25px;
   font-size: 20px;
   font-family: Raleway, Arial, sans-serif;
   font-weight: normal;
@@ -286,7 +286,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 35px auto 0px auto;
+  margin: 30px auto 0px auto;
 }
 
 .about__logo-image {
