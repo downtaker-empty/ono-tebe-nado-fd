@@ -195,7 +195,7 @@ p {
   font-size: 40px;
   font-weight: 700;
   margin-left: 40px;
-  margin-bottom: 28px;
+  margin-bottom: 27px;
   text-transform: uppercase;
 
 }
@@ -286,7 +286,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 36px auto 0px auto;
+  margin: 35px auto 0px auto;
 }
 
 .about__logo-image {
@@ -317,7 +317,7 @@ p {
   font-style: Bold;
   line-height: 100%;
   text-transform: uppercase;
-  margin-top: 140px;
+  margin-top: 133px;
   margin-left: 23px;
 }
 
